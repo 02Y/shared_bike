@@ -1,5 +1,5 @@
 # shared_bike
-Build shared bike servers（模仿学习服务器开发）
+Build shared bike servers
 引入使用 libevent + protobuf + thread_pool + MySQL + Log4cpp
 
 目录：
